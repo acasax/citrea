@@ -2823,12 +2823,11 @@ hr {
     padding: 0 !important
 }
 
-.slider-height {
-    background-image: url(../img/hero/h1_hero.png);
-    min-height: 840px;
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover
+.slider-height img {
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    width: 100%;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -3234,6 +3233,10 @@ hr {
     line-height: 1.6;
     margin-bottom: 35px;
     padding-right: 50px
+}
+
+.about-area .about-caption p span {
+    font-weight: bold;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
