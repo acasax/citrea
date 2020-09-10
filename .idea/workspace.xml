@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1064dc94-adda-494f-9006-98d52114d9b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/medi.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
@@ -11,6 +10,9 @@
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/instructor.html" beforeDir="false" afterPath="$PROJECT_DIR$/instructor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medi.html" beforeDir="false" afterPath="$PROJECT_DIR$/medi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medi_detalis1.html" beforeDir="false" afterPath="$PROJECT_DIR$/medi_detalis1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medi_detalist.html" beforeDir="false" afterPath="$PROJECT_DIR$/medi_detalist.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +78,8 @@
       <workItem from="1599687344946" duration="8000" />
       <workItem from="1599688079823" duration="211000" />
       <workItem from="1599721331096" duration="6305000" />
-      <workItem from="1599743525369" duration="6801000" />
+      <workItem from="1599743525369" duration="6879000" />
+      <workItem from="1599767240098" duration="1302000" />
     </task>
     <servers />
   </component>
