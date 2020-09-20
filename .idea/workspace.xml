@@ -4,8 +4,17 @@
     <list default="true" id="1064dc94-adda-494f-9006-98d52114d9b6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/announcement.html" beforeDir="false" afterPath="$PROJECT_DIR$/announcement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog_details.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog_details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog_details1.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog_details1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/instructor.html" beforeDir="false" afterPath="$PROJECT_DIR$/instructor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medi.html" beforeDir="false" afterPath="$PROJECT_DIR$/medi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medi_detalis1.html" beforeDir="false" afterPath="$PROJECT_DIR$/medi_detalis1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medi_detalist.html" beforeDir="false" afterPath="$PROJECT_DIR$/medi_detalist.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/najava.html" beforeDir="false" afterPath="$PROJECT_DIR$/najava.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +91,14 @@
       <workItem from="1600161591299" duration="602000" />
       <workItem from="1600167168230" duration="4533000" />
       <workItem from="1600179219754" duration="219000" />
-      <workItem from="1600259991543" duration="2579000" />
+      <workItem from="1600259991543" duration="2705000" />
+      <workItem from="1600329151556" duration="101000" />
+      <workItem from="1600427594538" duration="9000" />
+      <workItem from="1600509937943" duration="1700000" />
+      <workItem from="1600607320683" duration="15000" />
+      <workItem from="1600610001405" duration="945000" />
+      <workItem from="1600612263310" duration="621000" />
+      <workItem from="1600613022301" duration="3000" />
     </task>
     <servers />
   </component>
