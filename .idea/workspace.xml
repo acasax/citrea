@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/announcement.html" beforeDir="false" afterPath="$PROJECT_DIR$/announcement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog_details.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog_details.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog_details1.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog_details1.html" afterDir="false" />
@@ -98,7 +99,9 @@
       <workItem from="1600607320683" duration="15000" />
       <workItem from="1600610001405" duration="945000" />
       <workItem from="1600612263310" duration="621000" />
-      <workItem from="1600613022301" duration="3000" />
+      <workItem from="1600613022301" duration="618000" />
+      <workItem from="1600767108606" duration="601000" />
+      <workItem from="1601552332749" duration="2964000" />
     </task>
     <servers />
   </component>
