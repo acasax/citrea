@@ -2589,7 +2589,7 @@ hr {
 
 @media only screen and (min-width: 1601px) and (max-width: 1800px) {
     .header-area .header-bottom .logo {
-        padding: 35px 31px;
+        padding: 23px 31px;
         margin-right: 10px
     }
 }
@@ -2849,7 +2849,7 @@ hr {
 
 .slider-height2 {
     background-image: url(../img/hero/hero2.png);
-    min-height: 455px;
+    min-height: 245px;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover
