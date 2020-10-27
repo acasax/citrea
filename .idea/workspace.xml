@@ -3,13 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="1064dc94-adda-494f-9006-98d52114d9b6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/al/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/al/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/al/announcement.html" beforeDir="false" afterPath="$PROJECT_DIR$/al/announcement.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/al/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/al/blog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/al/blog_details.html" beforeDir="false" afterPath="$PROJECT_DIR$/al/blog_details.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/al/blog_details1.html" beforeDir="false" afterPath="$PROJECT_DIR$/al/blog_details1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/al/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/al/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/al/elements.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/al/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/al/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/al/instructor.html" beforeDir="false" afterPath="$PROJECT_DIR$/al/instructor.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/al/medi.html" beforeDir="false" afterPath="$PROJECT_DIR$/al/medi.html" afterDir="false" />
@@ -19,19 +19,13 @@
       <change beforePath="$PROJECT_DIR$/al/najavedogadjaja.html" beforeDir="false" afterPath="$PROJECT_DIR$/al/najavedogadjaja.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/al/novisad.html" beforeDir="false" afterPath="$PROJECT_DIR$/al/novisad.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/al/podgorica.html" beforeDir="false" afterPath="$PROJECT_DIR$/al/podgorica.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/announcement.html" beforeDir="false" afterPath="$PROJECT_DIR$/announcement.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/lang/england-flag-icon-32.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/lang/england-flag-icon-32.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog_details.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog_details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog_details1.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog_details1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/en/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/en/announcement.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/announcement.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/en/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/blog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/en/blog_details.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/blog_details.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/en/blog_details1.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/blog_details1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/en/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/elements.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/en/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/en/instructor.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/instructor.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/en/medi.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/medi.html" afterDir="false" />
@@ -41,15 +35,6 @@
       <change beforePath="$PROJECT_DIR$/en/najavedogadjaja.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/najavedogadjaja.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/en/novisad.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/novisad.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/en/podgorica.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/podgorica.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instructor.html" beforeDir="false" afterPath="$PROJECT_DIR$/instructor.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medi.html" beforeDir="false" afterPath="$PROJECT_DIR$/medi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medi_detalis1.html" beforeDir="false" afterPath="$PROJECT_DIR$/medi_detalis1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medi_detalist.html" beforeDir="false" afterPath="$PROJECT_DIR$/medi_detalist.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/najava.html" beforeDir="false" afterPath="$PROJECT_DIR$/najava.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/najavedogadjaja.html" beforeDir="false" afterPath="$PROJECT_DIR$/najavedogadjaja.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novisad.html" beforeDir="false" afterPath="$PROJECT_DIR$/novisad.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/podgorica.html" beforeDir="false" afterPath="$PROJECT_DIR$/podgorica.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -146,7 +131,10 @@
       <workItem from="1603029808863" duration="4000" />
       <workItem from="1603183928597" duration="600000" />
       <workItem from="1603194820011" duration="5778000" />
-      <workItem from="1603287433854" duration="1791000" />
+      <workItem from="1603287433854" duration="2540000" />
+      <workItem from="1603309442087" duration="79000" />
+      <workItem from="1603711368340" duration="597000" />
+      <workItem from="1603821548758" duration="924000" />
     </task>
     <servers />
   </component>
